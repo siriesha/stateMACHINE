@@ -1,0 +1,2 @@
+# stateMACHINE
+statemachine using verilog
